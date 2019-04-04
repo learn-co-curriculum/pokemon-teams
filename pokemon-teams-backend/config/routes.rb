@@ -4,3 +4,7 @@ Rails.application.routes.draw do
   delete '/pokemons/:id', to: 'pokemons#destroy'
   get '/trainers', to: 'trainers#index'
 end
+
+
+
+#COMMENTS
